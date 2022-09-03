@@ -1,14 +1,10 @@
-# File-Sharing-Man
-
-Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
-Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
+# FileTelesForce
 
 ## ⚠️ Disclaimer
 
 ```
 Saya tidak bertanggung jawab atas penyalahgunaan bot ini.
-Bot ini dimaksudkan untuk membantu untuk menyimpan file yang diinginkan yang dapat diakses melalui Link Khusus.
-Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
+
 ```
 
 ### Features
@@ -26,15 +22,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 🛡 Installation
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
+<br>Fork dulu sebelum deploy</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
-**Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
-<a href="https://youtu.be/O2tieQgzYZg">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
-
-<details>
-<summary><h3><b>🔗 Extra Custom & List Vars</b></h3></summary>
 
 ### Variables
 
@@ -71,13 +61,11 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 </details>
 
 ## 🏷 Support   
-- Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot 
-- Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
+- Follow Channel [@hrdntiktiktik](https://t.me/hrdntiktiktik) untuk info Update bot 
+- Gabung Group [@fileteleforce](https://t.me/filetelesforce) untuk diskusi, pelaporan bug, dan bantuan tentang FileTelesForce
 
 ## 👨🏻‍💻 Credits
 
--  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
--  [Risman](https://github.com/mrismanaziz) for [File-Sharing-Man](https://github.com/mrismanaziz/File-Sharing-Man)
 -  Based on [CodeXBotz](https://github.com/CodeXBotz) Repo [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 
 ## 📑 License
