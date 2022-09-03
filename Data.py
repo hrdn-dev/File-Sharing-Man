@@ -1,7 +1,7 @@
 # Credits: @hrdnxxxX
 # FROM FileTeleForce <https://github.com/hrdn-dev/FileTeleForce/>
 # t.me/S
-FileTeleForce & t.me/hrdnxxxX
+t.me/FileTeleForce & t.me/hrdnxxxX
 
 from pyrogram.types import InlineKeyboardButton
 
