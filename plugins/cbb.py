@@ -1,6 +1,6 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @hrdnxxxX
+# t.me/FileTeleForce & t.me/hrdnxxxX
 
 from bot import Bot
 from config import OWNER
@@ -44,7 +44,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     elif data == "help":
         try:
             await query.message.edit_text(
-                text="<b>Cara Menggunakan Bot ini</b>\n" + Data.HELP,
+                text="<b>Guide bot ini</b>\n" + Data.HELP,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup(Data.buttons),
             )
