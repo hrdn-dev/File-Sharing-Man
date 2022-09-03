@@ -1,6 +1,6 @@
-# Credits: @mrismanaziz
-# FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Credits: @hrdnxxxX
+# FROM FileTeleForce
+# t.me/hrdnxxxX
 
 import os
 import sys
@@ -14,7 +14,7 @@ from pyrogram.types import Message
 
 from config import ADMINS, LOGGER
 
-UPSTREAM_REPO = "https://github.com/mrismanaziz/File-Sharing-Man"
+UPSTREAM_REPO = "https://github.com/hrdn-dev/TeleFileForce"
 
 
 def gen_chlog(repo, diff):
