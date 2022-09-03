@@ -1,6 +1,6 @@
 # (©)Codexbotz
 # Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/cumdump_bot & t.me/Buitenzorh
 
 import asyncio
 
