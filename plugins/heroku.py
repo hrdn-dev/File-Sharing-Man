@@ -7,9 +7,9 @@
 #
 # All rights reserved.
 #
-# Ported by @mrismanaziz
-# FROM File-Sharing-Man < https://github.com/mrismanaziz/File-Sharing-Man/ >
-# t.me/Lunatic0de & t.me/SharingUserbot
+# Ported by @hrdnxxxX
+# FROM FTF 
+# t.me/hrenxxxX & t.me/FileTeleForce
 #
 
 import os
