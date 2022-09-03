@@ -1,6 +1,6 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @hrdnxxx
+# t.me/hrdnxxxX
 
 import asyncio
 from datetime import datetime
@@ -189,7 +189,7 @@ async def send_text(client: Bot, message: Message):
         unsuccessful = 0
 
         pls_wait = await message.reply(
-            "<code>Broadcasting Message Tunggu Sebentar...</code>"
+            "<code>Broadcasting Message tunggu bntr...</code>"
         )
         for row in query:
             chat_id = int(row[0])
