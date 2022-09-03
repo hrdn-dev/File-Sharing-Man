@@ -1,6 +1,7 @@
-# Credits: @mrismanaziz
-# FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Credits: @hrdnxxxX
+# FROM FileTeleForce <https://github.com/hrdn-dev/FileTeleForce/>
+# t.me/S
+FileTeleForce & t.me/hrdnxxxX
 
 from pyrogram.types import InlineKeyboardButton
 
@@ -24,7 +25,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Develoved by @Lunatic0de</b>
+👨‍💻 Develoved by @hrdnxxxX</b>
 """
 
     close = [
@@ -46,13 +47,13 @@ class Data:
     ]
 
     ABOUT = """
-<b>Tentang Bot ini:
+<b>Fungsi Bot:
 
-@{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
+@{} Buat save post dan share
 
  • Creator: @{}
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
- • Owner Repo: @mrismanaziz
+ • Source Code: <a href='https://github.com/hrdnxxxX/FileTeleForce'>FTF v1</a>
+ • Owner Repo: @hrdnxxxX
 
-👨‍💻 Develoved by @Lunatic0de</b>
+👨‍💻 Develoved by @hrdnxxxX</b>
 """
